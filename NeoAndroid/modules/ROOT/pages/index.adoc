@@ -12,7 +12,7 @@ This is a list of Android Team members.
 * Kunsang Wangyal
 * Venkataiah  Ballem
 
-=== Color Coombination
+=== Color Combination
 .Basic Colors
 ----
 * Blue
