@@ -1,0 +1,18 @@
+= DailyCare Team
+:navtitle: DailyCare
+'''
+== Example  Modulle
+This is an example of list.
+
+* Balloon
+* Sparkle
+* Cake
+* Cupcake
+
+=== Color Combination
+.Basic Colors
+----
+* Blue
+* Black
+* White
+----
