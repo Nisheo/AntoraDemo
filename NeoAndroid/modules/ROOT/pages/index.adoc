@@ -19,3 +19,6 @@ This is a list of Android Team members.
 * Black
 * White
 ----
+
+*Trying to access an external  website,* see this https://opencollective.com/asciidoctor[Asciidoctor Open Collective^].
+
