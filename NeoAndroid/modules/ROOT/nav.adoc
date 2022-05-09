@@ -1,2 +1,2 @@
 * xref:index.adoc[]
-* xref:CrossRef.adoc
+* xref:CrossRef.adoc[]
