@@ -20,5 +20,5 @@ This is a list of Android Team members.
 * White
 ----
 
-*Trying to access an external  website,* see this https://opencollective.com/asciidoctor[Asciidoctor Open Collective^].
+*Trying to access an external  website,* see this https://github.com/Nisheo/AntoraDemo[Github Repo^].
 
