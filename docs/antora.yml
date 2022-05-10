@@ -1,10 +1,5 @@
 name: DailyCare
 title:  Menu List
 version: '2.0'
-start_page: ROOT:index.adoc
-asciidoc:
-  attributes:
-    source-language: asciidoc@
-    table-caption: false
 nav:
 - modules/ROOT/nav.adoc
