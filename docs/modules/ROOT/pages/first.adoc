@@ -1,8 +1,6 @@
 = DailyCare Team
 :navtitle: Hello
 
-'''
-
 == Team Members
 
 This is a list of Android Team members.
