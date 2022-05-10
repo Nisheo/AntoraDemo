@@ -1,7 +1,7 @@
-= Neo Android DailyCare Team
+= Neo Android DailyCare Team =
 :navtitle: DailyCare
-----
-== Team Members
+'''
+== Team Members  ==
 This is a list of Android Team members.
 
 * Dilip Kumar
@@ -12,7 +12,7 @@ This is a list of Android Team members.
 * Kunsang Wangyal
 * Venkataiah  Ballem
 
-=== Color Combination
+=== Color Combination ===
 .Basic Colors
 ----
 * Blue
