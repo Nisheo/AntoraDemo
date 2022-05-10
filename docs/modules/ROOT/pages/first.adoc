@@ -5,8 +5,6 @@
 
 == Team Members
 
-'''
-
 This is a list of Android Team members.
 
 * Dilip Kumar
@@ -24,5 +22,5 @@ This is a list of Android Team members.
 ----
 
 
-* Trying to access an external  website,* see this https://github.com/Nisheo/AntoraDemo[Github Repo^].
+* Trying to access an external  website, see this https://github.com/Nisheo/AntoraDemo[Github Repo^].
 
