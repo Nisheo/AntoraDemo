@@ -21,8 +21,9 @@ This is a list of Android Team members.
 ----
 * Blue
 * Black
-* White
+* White/Red
 ----
+
 
 *Trying to access an external  website,* see this https://github.com/Nisheo/AntoraDemo[Github Repo^].
 
